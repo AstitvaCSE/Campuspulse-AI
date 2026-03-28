@@ -30,8 +30,7 @@ to figure out the "vibe" (sentiment) of student feedback.
 Want to Run It?
 
 If you've got Python installed, getting this up and running is a three-step process:
-1. Clone the Repo: git clone https://github.com/yourusername/Campuspulse-
-AI.git
+1. Clone the Repo: git clone https://github.com/AstitvaCSE/Campuspulse-AI/tree/main
 2. Install the Goods: Pop open your terminal and run pip install pandas scikit-learn
 textblob.
 3. Launch: Execute python main.py and you'll see the model start its thing.
